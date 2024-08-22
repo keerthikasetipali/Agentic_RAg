@@ -1,4 +1,4 @@
-                                                                          AGENTIC RAG
+                                                                   ** AGENTIC RAG**
 
 **Overview**:
 
